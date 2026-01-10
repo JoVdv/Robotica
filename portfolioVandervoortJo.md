@@ -1,0 +1,59 @@
+---
+title: "Portfolio Vandervoort Jo"
+student: "Vandervoort Jo"
+class: "Afstandsonderwijs"
+date: "10/01/2026"
+---
+
+# 1. Kennisblog Robotica  
+
+## 1.1 Basis info  
+Ik heb mijn opdrachten op de Fanuc ER-4iA met R-30iB Mate Plus Controller
+uitgevoerd.  
+Het is een 6-axis robot die een maximale last van 4kg kan dragen en een reach
+heeft van 550mm. De controller is bedienbaar met knoppen en of met touchscreen.  
+
+## 1.2 Veiligheidsinstructies
+Een robot is en blijft een gevaarlijke machine. Hierdoor moeten we bepaalde
+richtlijnen in acht nemen om veilig te werken en programmeren van de robot.  
+De voornaamste richtlijnen zijn:  
+- Mechanische werken of handelingen binenn de cel voer je steeds uit met 
+een uitgeschakelde robot.  
+- Programmeren doe je steeds met de Teach Pendant buiten de cel.  
+- Testen van een robot programma doe je steeds in T1 en met gesloten celdeur.  
+- Automatisch laten lopen van de robot gebeurt steeds met gesloten celdeur met
+goedkeuring van de verantwoordelijke.  
+
+## 1.3 Opstarten van de robot.  
+De roborcontroller is voorzien van een keuzeschakelaar. Deze keuze schakelaar
+heeft de volgende standen:  
+- Auto  
+- T1  
+- T2  
+Elke stand is een andere bedrijfsmodi van de robot. Zo is dient de automode
+enkel gebruikt te worden na setup met een gesloten celdeur. De standen T1 en T2
+zijn teststanden. Zo is bij T1 de snelheid van de robot beperkt tot 250mm/s en
+de voornaamste modus om het robotprogramma te testen. De modus T2 is de snelheid
+niet beperkt en moet steeds met bedachtzaamheid gebruikt worden.  
+
+Het opstarten van de robot gaan we doen door de Teach Pendant te nemen, de keuze
+schakelaar in stand 1 te plaatsen en hoofdschakelaar in de aanstand te plaatsen.  
+
+## 1.4 Bedienen van de robot.  
+Het bedienen van de robot gebeurt aan de hand van de Teach Pendant. Deze Teach
+Pendant kan men bedienen met de knoppen en of met touchscreen. 
+
+# 2. Gemaakte oefeningen  
+
+## 2.1 Loops  
+Er zijn 2 velden, één veld heeft 10 cilinders. Het andere veld is leeg.
+De cilinders zijn gerangschikt in een driehoek vormig patroon.  
+De opzet is om met de robot in een loop programma cilinders van veld 1 naar
+veld 2 te verplaatsen.  
+
+# 3. Gevolgde cursussen/video's  
+
+# 4. Datasheets & Fabrikanten informatie  
+[Fanuc brochure Educational Package](https://hogeschoolpxl.sharepoint.com/:b:/r/sites/ROBOTICA/Gedeelde%20documenten/FANUC/Fanuc_Robot/Robot/Fanuc_EducationalCell/FanucBrochure_robots-educational-package-brochure-en.pdf?csf=1&web=1&e=CQSN9p)  
+[Fanuc Educational Cell Manual](https://hogeschoolpxl.sharepoint.com/:b:/r/sites/ROBOTICA/Gedeelde%20documenten/FANUC/Fanuc_Robot/Robot/Fanuc_EducationalCell/FANUC%20Educational%20Cell%20Manual.pdf?csf=1&web=1&e=wcypbv)  
+
