@@ -30,18 +30,36 @@ heeft de volgende standen:
 - Auto  
 - T1  
 - T2  
-Elke stand is een andere bedrijfsmodi van de robot. Zo is dient de automode
-enkel gebruikt te worden na setup met een gesloten celdeur. De standen T1 en T2
+Elke stand is een andere bedrijfsmodi van de robot. Zo dient de automode enkel 
+gebruikt te worden na setup en met een gesloten celdeur. De standen T1 en T2
 zijn teststanden. Zo is bij T1 de snelheid van de robot beperkt tot 250mm/s en
 de voornaamste modus om het robotprogramma te testen. De modus T2 is de snelheid
 niet beperkt en moet steeds met bedachtzaamheid gebruikt worden.  
 
-Het opstarten van de robot gaan we doen door de Teach Pendant te nemen, de keuze
-schakelaar in stand 1 te plaatsen en hoofdschakelaar in de aanstand te plaatsen.  
+Het opstarten van de robot gaan we doen door de Teach Pendant te nemen, de 
+keuzeschakelaar op de controller in stand 1 te plaatsen en hoofdschakelaar 
+in stand "On" te plaatsen.  
 
 ## 1.4 Bedienen van de robot.  
+
+### 1.4.1 Basisbegrippen
 Het bedienen van de robot gebeurt aan de hand van de Teach Pendant. Deze Teach
 Pendant kan men bedienen met de knoppen en of met touchscreen. 
+Teach Pendants zijn ook steeds uitgerust met dodemansknoppen op de achterzijde.
+Dit zijn knoppen die gebruikt worden bij industriële installaties die men 
+handmatig gaat bedienen met de kans op een gevaarlijke situatie. Deze knoppen 
+hebben 3 standen waarbij de knop in een middenstand moet gehouden moet worden 
+om vrijgave van de assen te verkrijgen.  
+
+![Teach Pendant](images/controller.jpg)
+
+\newpage
+
+### 1.4.2 Handmatig bedienen van de robot
+
+
+
+
 
 # 2. Gemaakte oefeningen  
 
