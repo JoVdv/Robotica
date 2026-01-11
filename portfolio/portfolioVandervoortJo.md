@@ -7,7 +7,7 @@ date: "10/01/2026"
 
 # 1. Kennisblog Robotica  
 
-## 1.1 Basis info  
+## 1.1 Beschrijving Fanuc Education cell  
 Ik heb mijn opdrachten op de Fanuc ER-4iA met R-30iB Mate Plus Controller
 uitgevoerd.  
 Het is een 6-axis robot die een maximale last van 4kg kan dragen en een reach
@@ -24,7 +24,28 @@ een uitgeschakelde robot.
 - Automatisch laten lopen van de robot gebeurt steeds met gesloten celdeur met
 goedkeuring van de verantwoordelijke.  
 
-## 1.3 Opstarten van de robot.  
+## 1.3 Basisbegrippen robotica  
+
+### 1.3.1 Coördinatensystemen  
+Binnen robotica gebruiken we verschillende coördinatensystemen. Deze systemen
+hebben elk hun eigen nut en toepassing. De volgende coördinaten systemen worden
+bij Fanuc toegepast:  
+- Worldframe  
+- Toolframe (UTOOL)  
+- Userframe (UFRAME)  
+- Joint coördinaten  
+
+De coördinaatsystemen uitgezonderd de joint coördinaten werken met het
+XYZ-assenstels. Het coördinaten systeem UFRAME is bij mijn toepassing het
+interessantste om toe te passen. Je kan meerde UFRAMES instellen. Bij dit
+systeem gaan we als gebruiker zelf de positie van ons assenstelsel definiëren.
+Dit heeft als voordeel dat we het frame op een voor ons gunstige positie
+plaatsen. 
+
+### 1.3.2 Singulariteit
+
+
+## 1.4 Opstarten van de robot.  
 De roborcontroller is voorzien van een keuzeschakelaar. Deze keuze schakelaar
 heeft de volgende standen:  
 - Auto  
@@ -40,9 +61,9 @@ Het opstarten van de robot gaan we doen door de Teach Pendant te nemen, de
 keuzeschakelaar op de controller in stand 1 te plaatsen en hoofdschakelaar 
 in stand "On" te plaatsen.  
 
-## 1.4 Bedienen van de robot.  
+## 1.5 Bedienen van de robot.  
 
-### 1.4.1 Basisbegrippen
+### 1.5.1 Basis info
 Het bedienen van de robot gebeurt aan de hand van de Teach Pendant. Deze Teach
 Pendant kan men bedienen met de knoppen en of met touchscreen. 
 Teach Pendants zijn ook steeds uitgerust met dodemansknoppen op de achterzijde.
@@ -51,11 +72,21 @@ handmatig gaat bedienen met de kans op een gevaarlijke situatie. Deze knoppen
 hebben 3 standen waarbij de knop in een middenstand moet gehouden moet worden 
 om vrijgave van de assen te verkrijgen.  
 
-![Teach Pendant](images/controller.jpg)
+![Teach Pendant](images/controller.png){width=50%}
 
-\newpage
+\pagebreak
 
-### 1.4.2 Handmatig bedienen van de robot
+### 1.5.2 Handmatig bedrijf
+Voor het handmatig bedienen van de robot moet men steeds de volgende stappen 
+doorlopen:  
+- Het houden van de dodemansknop in de middenstand voor hele tijd we de robot
+bedienen.  
+- Bedien "RESET".  
+- Houdt de knop "SHIFT" ingedrukt tijdens het bedienen van de robot.  
+- Met de rechtse knoppen rij kan je nu de robot bedienen. 
+
+### 1.5.3 Automatisch bedrijf
+
 
 
 
