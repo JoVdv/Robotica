@@ -40,7 +40,10 @@ XYZ-assenstels. Het coördinaten systeem UFRAME is bij mijn toepassing het
 interessantste om toe te passen. Je kan meerde UFRAMES instellen. Bij dit
 systeem gaan we als gebruiker zelf de positie van ons assenstelsel definiëren.
 Dit heeft als voordeel dat we het frame op een voor ons gunstige positie
-plaatsen. 
+kunnen plaatsen. Ook is het mogelijk om in het programma verloop van userframe
+te wisselen. Dit geeft dat ook al zijn 2 of meerdere werkgebieden van de robot
+op een bizarre hoek van elkaar geplaatst we toch binnen elk werkgebied met een
+logische XYZ kunnen werken. 
 
 ### 1.3.2 Singulariteit
 
@@ -94,7 +97,7 @@ bedienen.
 
 # 2. Gemaakte oefeningen  
 
-## 2.1 Loops  
+## 2.1 Opdracht Loops  
 Er zijn 2 velden, één veld heeft 10 cilinders. Het andere veld is leeg.
 De cilinders zijn gerangschikt in een driehoek vormig patroon.  
 De opzet is om met de robot in een loop programma cilinders van veld 1 naar
