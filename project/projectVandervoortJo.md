@@ -63,4 +63,25 @@ Dit wordt herhaald totdat alle vaten overgezet zijn.
 ### 2.1.1 Flowchart
 ![flowchart](flowchart.png)
 
+### 2.1.2 Code
 
+#### 2.1.2.1 Totale code
+
+#### 2.1.2.2 Code snippets
+
+- inlezen start positie
+- Forloops
+- aanpassen van positie
+
+### 2.1.3 Variabelen en IO-lijst
+
+# 3 Media
+Ik heb een github repository aangemaakt met daarin de vooruitgang van mijn
+project.
+https://github.com/JoVdv/Robotica
+
+# 4 Simulatie
+
+# 5 Checklist skills
+
+# 6 Checklist requirements
