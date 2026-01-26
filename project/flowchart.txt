@@ -1,2 +1,7 @@
-[Start] -> [Check] -> [Done]
-[Done] -> [Start]
+graph { flow: south; }
+
+[Start] -> [Home 1] -> [Wachtpositie A] -> [Laadpositie A] -> [Gripper toe] ->
+[Wachtpositie B 1] -> [Ontlaadpositie B] -> [Grijper open] ->  
+[Wachtpositie B 2] -> [Done] -> [Home 2]
+[Wachtpositie B 2] -> [Wachtpositie A]
+[Home 2] -> [Start]
