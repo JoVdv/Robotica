@@ -7,7 +7,6 @@ date: "10/01/2026"
 
 # 1. Kennisblog Robotica  
 
-
 ## 1.1 Opstarten van de robot.  
 De roborcontroller is voorzien van een keuzeschakelaar. Deze keuze schakelaar
 heeft de volgende standen:  
@@ -24,7 +23,7 @@ Het opstarten van de robot gaan we doen door de Teach Pendant te nemen, de
 keuzeschakelaar op de controller in stand 1 te plaatsen en hoofdschakelaar 
 in stand "On" te plaatsen.  
 
-### 1.5.2 Handmatig bedrijf
+### 1.2 Handmatig bedrijf
 Voor het handmatig bedienen van de robot moet men steeds de volgende stappen 
 doorlopen:  
 - Het houden van de dodemansknop in de middenstand voor hele tijd we de robot
@@ -33,16 +32,6 @@ bedienen.
 - Houdt de knop "SHIFT" ingedrukt tijdens het bedienen van de robot.  
 - Met de rechtse knoppen rij kan je nu de robot bedienen. 
 
-## 1.2 Veiligheidsinstructies
-Een robot is en blijft een gevaarlijke machine. Hierdoor moeten we bepaalde
-richtlijnen in acht nemen om veilig te werken en programmeren van de robot.  
-De voornaamste richtlijnen zijn:  
-- Mechanische werken of handelingen binenn de cel voer je steeds uit met 
-een uitgeschakelde robot.  
-- Programmeren doe je steeds met de Teach Pendant buiten de cel.  
-- Testen van een robot programma doe je steeds in T1 en met gesloten celdeur.  
-- Automatisch laten lopen van de robot gebeurt steeds met gesloten celdeur met
-goedkeuring van de verantwoordelijke.  
 
 ## 1.3 Teaching en frames
 Ik 
