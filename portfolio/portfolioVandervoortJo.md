@@ -2,7 +2,7 @@
 title: "Portfolio Vandervoort Jo"
 student: "Vandervoort Jo"
 class: "Afstandsonderwijs"
-date: "10/01/2026"
+date: "29/01/2026"
 ---
 
 # 1. Kennisblog Robotica  
@@ -34,7 +34,6 @@ bedienen.
 
 
 ## 1.3 Teaching en frames
-Ik 
 
 ### 1.3.1 Coördinatensystemen  
 Binnen robotica gebruiken we verschillende coördinatensystemen. Deze systemen
@@ -54,7 +53,6 @@ kunnen plaatsen. Ook is het mogelijk om in het programma verloop van userframe
 te wisselen. Dit geeft dat ook al zijn 2 of meerdere werkgebieden van de robot
 op een bizarre hoek van elkaar geplaatst we toch binnen elk werkgebied met een
 logische XYZ kunnen werken. 
-
 
 
 ## 1.5 Bedienen van de robot.  
